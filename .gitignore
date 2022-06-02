@@ -1,0 +1,11 @@
+__pycache__
+migrations
+__init__.py
+admin.py
+apps.py
+tests.py
+goal\urls.py
+asgi.py
+settings.py
+wsgi.py
+manage.py
